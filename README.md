@@ -47,4 +47,4 @@ To further develop this model, we could do a number of things:
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Capstone Project](https://github.com/Raesu/pcmlai-capstone/blob/main/Capstone.ipynb)
