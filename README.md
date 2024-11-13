@@ -10,7 +10,7 @@ SwiftKey is a company that built a software keyboard with autocomplete. They lau
 
 I downloaded a [public data set](https://www.kaggle.com/datasets/crmercado/tweets-blogs-news-swiftkey-dataset-4million/data) of tweets from SwiftKey and built a recurrent neural network to attempt what they did in 2016.
 
-I used only a small portion of the tweets given the computational load and time to train, but was able to achieve 36% accuracy with 2.98 loss after 20 epochs of training.
+I used only a small portion of the tweets given the computational load and time to train, but was able to achieve 36% accuracy with 2.6 loss after 20 epochs of training.
 
 There is more work to be done with smart keyboards, unless this approach is abandoned entirely for something based on neural uplink (see Elon's Nueralink company) or visual signal. I have high hopes to reduce the strain on my thumbs in the future!
 
